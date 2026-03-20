@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Absensi SMKN 46 Jakarta",
+  "description": "Aplikasi absensi siswa dan karyawan terintegrasi dengan Supabase.",
+  "requestFramePermissions": []
+}
